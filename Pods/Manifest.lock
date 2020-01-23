@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BWWalkthrough (4.0.0)
+  - Charts (3.3.0):
+    - Charts/Core (= 3.3.0)
+  - Charts/Core (3.3.0)
+  - JCDialPad (0.1.1):
+    - libPhoneNumber-iOS
+  - libPhoneNumber-iOS (0.9.15)
+  - OpenSSL-Universal (1.0.1.k)
+  - pjsip-ios (0.1.3):
+    - OpenSSL-Universal (= 1.0.1.k)
+  - Realm (3.17.1):
+    - Realm/Headers (= 3.17.1)
+  - Realm/Headers (3.17.1)
+  - RealmSwift (3.17.1):
+    - Realm (= 3.17.1)
+  - SwiftyJSON (5.0.0)
+  - Toast-Swift (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - BWWalkthrough
+  - Charts
+  - JCDialPad
+  - pjsip-ios
+  - RealmSwift
+  - SwiftyJSON
+  - Toast-Swift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BWWalkthrough
+    - Charts
+    - JCDialPad
+    - libPhoneNumber-iOS
+    - OpenSSL-Universal
+    - pjsip-ios
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BWWalkthrough: 9f46edbd1a145c74f3e5287b01cb4a884c840bf2
+  Charts: e0dd4cd8f257bccf98407b58183ddca8e8d5b578
+  JCDialPad: d977d1ff76eaaa1939c5f3b8882937094e093b3d
+  libPhoneNumber-iOS: 0a32a9525cf8744fe02c5206eb30d571e38f7d75
+  OpenSSL-Universal: 5b864c8eb334c8e78f44e4b2eb294ee2c1891c23
+  pjsip-ios: c950c1b4f09c27cfe923e3dff4ff0b6c255c3c2b
+  Realm: c204f1a890f07dea43b14132a6aad118c054b8f2
+  RealmSwift: 4d3c9233544b9cd08a8913e0872b9038eb99b054
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toast-Swift: 36f4720243c8582c2be243a60a51e193c761f541
+
+PODFILE CHECKSUM: f6cd6284b618cd1c9e5e5afda2a62aee3ec8f0df
+
+COCOAPODS: 1.5.3
